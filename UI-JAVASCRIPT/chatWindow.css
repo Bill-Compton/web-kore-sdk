@@ -1,6 +1,7 @@
 /*global css */
 .pos-absolute{
     position: absolute!important;
+	
 }
 .pos-relative{
     position: relative!important;
